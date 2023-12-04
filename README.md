@@ -16,3 +16,5 @@ To save image also:
 Future Work:
     Implement the same for video input
 
+![truck](https://github.com/vaish1604/orientedbbox/assets/80941602/71468231-efc2-4074-b619-381442f9d1ae)
+![truck](https://github.com/vaish1604/orientedbbox/assets/80941602/7dfba3ee-abb2-4be9-b044-6a3dc30a13a9)
